@@ -3,7 +3,7 @@ LAMMPS.  The use of machine Makefiles and their settings are discussed
 in Section 2 of the manual.
 
 If you are new to LAMMPS, try the Makefile.mpi or Makefile.serial file
-in this directory first.  I.e. "make mpi" or "make serial".
+in the 'src' directory first.  I.e. "make mpi" or "make serial".
 
 Then you can try files in the sub-directories with more options you
 may need, or that are specific to a machine you are running on.
